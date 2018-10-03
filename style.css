@@ -1,0 +1,75 @@
+h1{
+	font-family: lucida console;
+	font:bold;
+	font-style: italic;
+	margin-left: 35px;
+	margin-top: 30px;
+
+}
+
+header { margin-top: 30px;
+	border-bottom: 1pt solid #0F6E43;
+	border-width: thick;
+
+}
+
+header div{ margin-top: 35px;
+ }
+
+
+section { border-bottom: 1pt solid #0F6E43;
+		border-width: thick;
+
+ }
+
+ .subtext {
+	font-family: times new roman;
+	font:bold;
+	font-style: italic;
+	margin-left: 10px;
+	margin-top: 20px;
+	font-size: 35px;
+	border-bottom: 1pt solid  #0F6E43;
+	border-width: thick;
+	text-align: center;
+
+
+}
+
+.toplink {
+	font-family: times new roman;
+	font:bold;
+	font-style: italic;
+	margin-right: 30px;
+	margin-top: 30px;
+	font-size: 20px;
+	color: #E4BB2F;
+
+
+
+}
+
+.pics {
+
+	height: 400px;
+	width: 400;
+	margin-bottom: 10px;
+	margin-left: 20px;
+}
+
+footer {
+	font-family: lucida console;
+	font:bold;
+	font-style: italic;
+	margin-left: 10px;
+	margin-top: 20px;
+	font-size: 25px;
+
+}
+
+.networking{
+	height:40px;
+	width: 40px;
+
+
+}
