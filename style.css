@@ -3,17 +3,17 @@ h1{
 	font:bold;
 	font-style: italic;
 	margin-left: 35px;
-	margin-top: 30px;
+	
 
 }
 
-header { margin-top: 30px;
+header { 
 	border-bottom: 1pt solid #0F6E43;
 	border-width: thick;
 
 }
 
-header div{ margin-top: 35px;
+header div{ margin-top: 5px;
  }
 
 
@@ -36,14 +36,20 @@ section { border-bottom: 1pt solid #0F6E43;
 
 }
 
+aside{ text-align: center;
+	   
+
+
+}
+
 .toplink {
 	font-family: times new roman;
 	font:bold;
 	font-style: italic;
 	margin-right: 30px;
-	margin-top: 30px;
+	margin-top: 15px;
 	font-size: 20px;
-	color: #E4BB2F;
+	color: #D1CE6F;
 
 
 
@@ -51,8 +57,8 @@ section { border-bottom: 1pt solid #0F6E43;
 
 .pics {
 
-	height: 400px;
-	width: 400;
+	height: 350px;
+	width: 350;
 	margin-bottom: 10px;
 	margin-left: 20px;
 }
@@ -68,8 +74,38 @@ footer {
 }
 
 .networking{
-	height:40px;
-	width: 40px;
+	height:20px;
+	width: 20px;
 
 
 }
+
+head{
+	background-image: url(images/designimage.png);
+	height: 280px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+nav{
+	background-image: url(images/designimage.png);
+	height: 170px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	
+}
+
+.hyperlink{
+	margin-left: 120px;
+}
+
+.portfoliotext{
+	margin-right: 300px;
+	text-align: center;
+	font-style: italic;
+	font-size: 10px;
+
+}
+
